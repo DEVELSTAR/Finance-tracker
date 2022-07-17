@@ -75,3 +75,5 @@ end
 group :production do
   gem 'pg', '~> 1.4', '>= 1.4.1'
 end
+
+gem 'devise', '~> 4.8', '>= 4.8.1'
